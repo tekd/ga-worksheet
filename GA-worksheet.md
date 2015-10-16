@@ -6,7 +6,7 @@
 
 
 ##Project #2 Part #1: Header HTML
-1. What is the purpose of the header tag? The header tag...
+1. What is the purpose of the header tag? The header tag does this...
 
 2. What is a Navigation Bar?
 
