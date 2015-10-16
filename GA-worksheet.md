@@ -1,25 +1,30 @@
-Name:
-ScriptEd
-Topic: HTML, CSS, and JS
+###Name:
+###ScriptEd
+###Topic: HTML, CSS, and JS
 
-Directions: Project #2 on dash.ga.co asks you to create a blog for Jeff. Although you are not creating what someone can consider a blog, you are creating an intricate webpage using HTML, CSS and some JavaScript. Three skills that you will master in your time with ScriptEd. Log into your General Assembly account on dash.ga.co walk through the second project while answering the questions below. After completing this project you will be asked to convert this page into a four page website about your self.
+**Directions:** Project #2 on dash.ga.co asks you to create a blog for Jeff. Although you are not creating what someone can consider a blog, you are creating an intricate webpage using HTML, CSS and some JavaScript. Three skills that you will master in your time with ScriptEd. Log into your General Assembly account on dash.ga.co walk through the second project while answering the questions below. After completing this project you will be asked to convert this page into a four page website about your self.
 
 
 ##Project #2 Part #1: Header HTML
-1. Whatis the purpose of the header tag?
+1. What is the purpose of the header tag?
 
 2. What is a Navigation Bar?
 
-2a. What tag do we use to make a navigation bar? <      >
+3. What tag do we use to make a navigation bar? <      >
 
-3.  <ul> Stands for _____________________
+4.  <ul> Stands for _____________________
     <li> Stands for ______________________
 
-4. What does the <a> tag do?
+5. What does the <a> tag do?
 
-5. What would the line of HTML below do?
+6. What would the line of HTML below do?
+
+``` html
 
 <a href="http://www.google.com">Google</a>
+
+
+```
 
 ##Project #2 Part #2: Style the Header with CSS
 
@@ -45,20 +50,24 @@ Directions: Project #2 on dash.ga.co asks you to create a blog for Jeff. Althoug
 
 2. Why is it important to center and narrow text on a webpage? (think visually)
 
-3. What does this line of HTML do to an object?
+3. What does this line of HTML do to an object? 
 
-margin: 0 auto
+``` html
+margin: 0 auto;
+
+```
 
 4. How does using “max-width” instead of “width” improve the readability of any webpage?
 
 5. The media query to the right will not be activated unless…
 
+``` html
 @media (max-width: 500px) {
   body {
     background: red;
   }
 }
-
+```
 6. What does each digit of this Hexidecimal Color Code represent? #E78
 
 E:
