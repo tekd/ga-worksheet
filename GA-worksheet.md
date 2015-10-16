@@ -20,20 +20,16 @@
 6. What would the line of HTML below do?
 
 ``` html
-
 <a href="http://www.google.com">Google</a>
-
-
 ```
 
 ##Project #2 Part #2: Style the Header with CSS
 
-
-1. What advantages does the <link> tag have over the <style> tag ?
+1. What advantages does the `<link>` tag have over the `<style>` tag?
 
 2. What is normalize.css?
 
-3. Why do we need to add a padding property to the <ul> tag?
+3. Why do we need to add a padding property to the `<ul>` tag?
 
 4. What does the “inline” property do to a list of items?
 
@@ -43,36 +39,33 @@
 
 7. What did border-radius do to the square border around the image?
 
-
 ##Project #2 Part #3: Responsive Design and Javascript
 
 1. Why is responsive design becoming a more important aspect to consider when making a website compared to ten years ago?
 
 2. Why is it important to center and narrow text on a webpage? (think visually)
 
-3. What does this line of HTML do to an object? 
+3. What does this line of HTML do to an object? `margin: 0 auto;`
 
-``` html
-margin: 0 auto;
+4. How does using `max-width` instead of `width` improve the readability of any webpage?
 
-```
+5. The media query to the below  will not be activated unless…
 
-4. How does using “max-width” instead of “width” improve the readability of any webpage?
-
-5. The media query to the right will not be activated unless…
-
-``` html
+    ```
 @media (max-width: 500px) {
   body {
     background: red;
   }
 }
-```
+    ```
+
 6. What does each digit of this Hexidecimal Color Code represent? #E78
 
-E:
-7:
-8:
+ E represents ...
+
+ 7 represents ...
+
+ 8 represents ...
 
 7. What is the Hex Color Code for true purple?  #
 
@@ -84,9 +77,11 @@ E:
 
 11. How does JavaScript use events?
 
-##Activity Copy all the text from your project so far into a new JS Bin workspace. From there you can change the site to an “About Me” website about yourself. To do this you will need to do the following:
+**Activity** Copy all the text from your project so far into a new JS Bin workspace. From there you can change the site to an “About Me” website about yourself. To do this you will need to do the following:
 
-Manipulate much of the text and tags to represent yourself… Not Jeff
+- Manipulate much of the text and tags to represent yourself… Not Jeff
 
-Make sure that your "Like" button functions. If it does not work ask a teacher for guidance.
+- Make sure that your "Like" button functions. If it does not work ask a teacher for guidance.
+
+
 
