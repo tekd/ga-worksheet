@@ -63,7 +63,7 @@
 
 4. How does using `max-width` instead of `width` improve the readability of any webpage? max-width makes it so that the article elements cant be any bigger than whatever number you put in.
 
-5. The media query to the below  will not be activated unless…
+5. The media query to the below  will not be activated unless… you make the page narrower than 500px.
 
     ``` css
 @media (max-width: 500px) {
