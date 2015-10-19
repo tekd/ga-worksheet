@@ -33,7 +33,21 @@
 
 4. What does the “inline” property do to a list of items?
 
-5. Place the word “HTML” in the box to the right. However, properly do so using the padding below. (Remember top, right, bottom, left)
+5. What do the following padding values do?
+
+    padding: 25px 50px 75px 100px;
+
+    * top padding is __px
+    * right padding is __px
+    * bottom padding is __px
+    * left padding is __px
+
+    padding: 20px;
+
+    * top padding is __px
+    * right padding is __px
+    * bottom padding is __px
+    * left padding is __px
 
 6. What is the difference between padding and margin?
 
