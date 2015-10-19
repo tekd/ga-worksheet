@@ -6,18 +6,18 @@
 
 
 ##Project #2 Part #1: Header HTML
-1. What is the purpose of the header tag?
+1. What is the purpose of the header tag? A header tag is made for headers and its similar to a body, however it is meant specifically for a website's header.
 
 2. What is a Navigation Bar?
-
+Navigation bar is just a list of link.
 3. What tag do we use to make a navigation bar? <      >
 
-4.  <ul> Stands for _____________________
-    <li> Stands for ______________________
+4.  <ul> Stands for unordered list_____________________
+    <li> Stands for list items______________________
 
-5. What does the <a> tag do?
+5. What does the <a> tag do? The <a> is an anchor list, which makes list not just a text but links to another page.
 
-6. What would the line of HTML below do?
+6. What would the line of HTML below do? the line of HTML below would make it a link to a specific page, which is google.
 
 ``` html
 <a href="http://www.google.com">Google</a>
@@ -26,28 +26,28 @@
 ##Project #2 Part #2: Style the Header with CSS
 
 1. What advantages does the `<link>` tag have over the `<style>` tag?
-
-2. What is normalize.css?
+The advantages of <link> tag is it includes CSS from an external file instead of writting it all out in HTML file.
+2. What is normalize.css? Normalized.css is according to its websites and makes browser render all elements more consistently in line with modern standards so the page will look the same in any browser.
 
 3. Why do we need to add a padding property to the `<ul>` tag?
-
-4. What does the “inline” property do to a list of items?
+We use padding property to the <ul> to make the list in the center.
+4. What does the “inline” property do to a list of items? The "inline" property makes all links line up next to each others in a row.
 
 5. What do the following padding values do?
 
     padding: 25px 50px 75px 100px;
 
-    * top padding is __px
-    * right padding is __px
-    * bottom padding is __px
-    * left padding is __px
+    * top padding is 25px
+    * right padding is 50px
+    * bottom padding is 75px
+    * left padding is 100px
 
     padding: 20px;
 
-    * top padding is __px
-    * right padding is __px
-    * bottom padding is __px
-    * left padding is __px
+    * top padding is 0px
+    * right padding is 20px
+    * bottom padding is 0px
+    * left padding is 20px
 
 6. What is the difference between padding and margin?
 
