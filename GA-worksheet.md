@@ -12,8 +12,8 @@
 Navigation bar is just a list of link.
 3. What tag do we use to make a navigation bar? <      >
 
-4.  <ul> Stands for unordered list_____________________
-    <li> Stands for list items______________________
+4.  <ul> Stands for unordered list
+    <li> Stands for list items
 
 5. What does the <a> tag do? The <a> is an anchor list, which makes list not just a text but links to another page.
 
@@ -49,9 +49,9 @@ We use padding property to the <ul> to make the list in the center.
     * bottom padding is 0px
     * left padding is 20px
 
-6. What is the difference between padding and margin?
+6. What is the difference between padding and margin? While margin creates space on the outside of an element, the padding creates space in the inside.
 
-7. What did border-radius do to the square border around the image?
+7. What did border-radius do to the square border around the image? it made the image's side more rounder.
 
 ##Project #2 Part #3: Responsive Design and Javascript
 
