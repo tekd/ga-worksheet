@@ -7,12 +7,12 @@
 
 ##Project #2 Part #1: Header HTML
 1. What is the purpose of the header tag?
-
+The header tag of a website holds other tags inside it like <body>.
 2. What is a Navigation Bar?
+A navigation bar is a series of links in a website.
+3. What tag do we use to make a navigation bar? <ul>
 
-3. What tag do we use to make a navigation bar? <      >
-
-4.  <ul> Stands for _____________________
+4.  <ul> Stands for __unordered list___________________
     <li> Stands for ______________________
 
 5. What does the <a> tag do?
