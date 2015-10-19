@@ -1,21 +1,24 @@
-####Name:
+####Name: Angelica Hurtado
 ####ScriptEd
 ####Topic: HTML, CSS, and JS
 
-**Directions:** Project #2 on dash.ga.co asks you to create a blog for Jeff. Although you are not creating what someone can consider a blog, you are creating an intricate webpage using HTML, CSS and some JavaScript. Three skills that you will master in your time with ScriptEd. Log into your General Assembly account on dash.ga.co walk through the second project while answering the questions below. After completing this project you will be asked to convert this page into a four page website about your self.
+**Directions:** Project #2 on dash.ga.co asks you to create a blog for Jeff Buckley. Although you are not creating what someone can consider a blog, you are creating an intricate webpage using HTML, CSS and some JavaScript. Three skills that you will master in your time with ScriptEd. Log into your General Assembly account on dash.ga.co walk through the second project while answering the questions below. After completing this project you will be asked to convert this page into a four page website about your self.
 
 
 ##Project #2 Part #1: Header HTML
 1. What is the purpose of the header tag?
-
+It's basically the tag the hold everything in the header.
 2. What is a Navigation Bar?
-
+The navigation bar is basically a list of links you want the person navigating your website to go to.
 3. What tag do we use to make a navigation bar? <      >
-
-4.  <ul> Stands for _____________________
-    <li> Stands for ______________________
+<ul>
+<li> </li>
+</ul> 
+4.  <ul> Stands for ____Unordered List_________________
+    <li> Stands for __List Items____________________
 
 5. What does the <a> tag do?
+6. It adds the link to the list item.
 
 6. What would the line of HTML below do?
 
