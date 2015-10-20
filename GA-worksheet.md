@@ -7,17 +7,20 @@
 
 ##Project #2 Part #1: Header HTML
 1. What is the purpose of the header tag?
- The header tag of a website holds other tags inside it like <body>.
+ 
+The header tag of a website holds other tags inside it like <body>.
 2. What is a Navigation Bar?
+
  A navigation bar is a series of links in a website.
 3. What tag do we use to make a navigation bar? 
+
  We use the <ul> tag to make a navagation bar.
 
-4.  <ul> Stands for _The <ul> tag stands for unordered list___________________
-    <li> Stands for __The <li> tag stands for list item ____________________
+4.  <ul> Stands for _The "<ul>" tag stands for unordered list
+    <li> Stands for __The "<li>" tag stands for list item 
 
 5. What does the <a> tag do?
-The <a> tag creates a link to another page.
+The "<a>" tag creates a link to another page.
 
 6. What would the line of HTML below do?
 
@@ -29,28 +32,32 @@ This line of html would create a link to google.com named Google.
 ##Project #2 Part #2: Style the Header with CSS
 
 1. What advantages does the `<link>` tag have over the `<style>` tag?
+ 
  Both the <link> tag and the <style> tag are ways to incluse CSS in an html file. The <link> tag in particular accesses CSS from an external file instead of keeping it all written in the html like the <style> tag.
 
 2. What is normalize.css?
+ 
  normalize.css is a CSS file that makes the code flexible to any browser. It renders all elements more consistently and in line with modern standards.
 
 3. Why do we need to add a padding property to the `<ul>` tag?
- We needed to add the paddling property to the <ul> tag because the links were off-center after centering all the elements on the page. The browser compensated for the the bullet points, so we needed to add padding to counteract it and pad all sides.
+
+  We needed to add the paddling property to the "<ul>" tag because the links were off-center after centering all the elements on the page. The browser compensated for the the bullet points, so we needed to add padding to counteract it and pad all sides.
 
 4. What does the “inline” property do to a list of items?
+ 
  The "inline" property lines the list of items horizontally on the same line. They exist within the normal flow of text.
 
 5. What do the following padding values do?
 
     padding: 25px 50px 75px 100px;
-These values create specific padding values for each side by controlling each side's paddling individually.
+ These values create specific padding values for each side by controlling each side's paddling individually.
     * top padding is 25px
     * right padding is 50px
     * bottom padding is 75px
     * left padding is 100px
 
     padding: 20px;
-This value refers to all sides of the element because it's just one value.
+ This value refers to all sides of the element because it's just one value.
     * top padding is 10px
     * right padding is 10px
     * bottom padding is 10px
