@@ -79,7 +79,7 @@
 
  7 represents ... the amount of greeness
 
- 8 represents ... the amount of blueness
+ 8 represents ... the amount of blueness 
 
 7. What is the Hex Color Code for true purple?  #990099
 
