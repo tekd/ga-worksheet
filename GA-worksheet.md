@@ -10,7 +10,7 @@
 
 2. What is a Navigation Bar?
 Navigation bar is just a list of link.
-3. What tag do we use to make a navigation bar? <      >
+3. What tag do we use to make a navigation bar? <nav>
 
 4.  <ul> Stands for unordered list
     <li> Stands for list items
@@ -56,14 +56,16 @@ We use padding property to the <ul> to make the list in the center.
 ##Project #2 Part #3: Responsive Design and Javascript
 
 1. Why is responsive design becoming a more important aspect to consider when making a website compared to ten years ago?
-
+websites before were designed differently and you couldn't access websites through your phone.
 2. Why is it important to center and narrow text on a webpage? (think visually)
+3. so it wont be all stretched out.
 
 3. What does this line of HTML do to an object? `margin: 0 auto;`
+4. it makes the line in the center instead of it being stretched out.
 
-4. How does using `max-width` instead of `width` improve the readability of any webpage?
+4. How does using `max-width` instead of `width` improve the readability of any webpage? max-width makes the article element smaller the XXpx and wont be any larger than that XXpx
 
-5. The media query to the below  will not be activated unless…
+5. The media query to the below  will not be activated unless… when the browser is a certain width.
 
     ``` css
 @media (max-width: 500px) {
@@ -73,23 +75,23 @@ We use padding property to the <ul> to make the list in the center.
 }
     ```
 
-6. What does each digit of this Hexidecimal Color Code represent? #E78
+6. What does each digit of this Hexidecimal Color Code represent? #E78 red
 
- E represents ...
+ E represents ...amount of redness
 
- 7 represents ...
+ 7 represents ...amount of greenness
 
- 8 represents ...
+ 8 represents ...amount of blueness
 
-7. What is the Hex Color Code for true purple?  #
+7. What is the Hex Color Code for true purple?  #F0F
 
-8. _______________ is the programming language that allows websites to be interactive.
+8. javascript is the programming language that allows websites to be interactive.
 
-9. This tag allows us to add JavaScript into any webpage? <          >
+9. This tag allows us to add JavaScript into any webpage? <script></script>       
 
-10. What is an event?
+10. What is an event? when you move,click,scroll press a key the browser fires off an event.
 
-11. How does JavaScript use events?
+11. How does JavaScript use events? to select elements and listen for events.
 
 **Activity** Copy all the text from your project so far into a new JS Bin workspace. From there you can change the site to an “About Me” website about yourself. To do this you will need to do the following:
 
