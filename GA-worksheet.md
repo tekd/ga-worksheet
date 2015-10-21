@@ -73,12 +73,16 @@
     Because there are many different ways people now can accses websites.
 
 2. Why is it important to center and narrow text on a webpage? (think visually)
+    To make the layout easier for the user to use.
 
 3. What does this line of HTML do to an object? `margin: 0 auto;`
+    It gives the effect of the text being centerized. The "auto" part sets the margin on both left and right of the screen to an automatic distance. 
 
 4. How does using `max-width` instead of `width` improve the readability of any webpage?
+    It restricts the text from expanding a certin point.
 
 5. The media query to the below  will not be activated unless…
+    unless the width is less than 500px
 
     ``` css
 @media (max-width: 500px) {
@@ -90,17 +94,18 @@
 
 6. What does each digit of this Hexidecimal Color Code represent? #E78
 
- E represents ...
+ E represents ... The ammount of Redness.
 
- 7 represents ...
+ 7 represents ... The ammount of Green-ness.
 
- 8 represents ...
+ 8 represents ... The ammount of Blueness
 
 7. What is the Hex Color Code for true purple?  #
 
-8. _______________ is the programming language that allows websites to be interactive.
+8. ___Javascript_______ is the programming language that allows websites to be interactive.
 
 9. This tag allows us to add JavaScript into any webpage? <          >
+    The <script> tag
 
 10. What is an event?
 
