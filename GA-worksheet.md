@@ -1,7 +1,7 @@
 ####Name:
 ####ScriptEd
 ####Topic: HTML, CSS, and JS
-
+fksfds
 **Directions:** Project #2 on dash.ga.co asks you to create a blog for Jeff. Although you are not creating what someone can consider a blog, you are creating an intricate webpage using HTML, CSS and some JavaScript. Three skills that you will master in your time with ScriptEd. Log into your General Assembly account on dash.ga.co walk through the second project while answering the questions below. After completing this project you will be asked to convert this page into a four page website about your self.
 
 
