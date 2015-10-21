@@ -83,9 +83,9 @@ The image wouldn't exceed the maximum length set so the image wouldn't overshine
 
  E represents ... the amount of redness.
 
- 7 represents ... the amount of greenness 
+ 7 represents ... the amount of greenness.
 
- 8 represents ... the amount of blueness
+ 8 represents ... the amount of blueness.
 
 7. What is the Hex Color Code for true purple?  #509
 
