@@ -13,11 +13,11 @@
 3. What tag do we use to make a navigation bar? 
  We use the <ul> tag to make a navagation bar.
 
-4.  <ul> Stands for The "<ul>" tag stands for unordered list
-    <li> Stands for The "<li>" tag stands for list item 
+4.  <ul> Stands for  unordered list
+    <li> Stands for  list item 
 
 5. What does the <a> tag do?
-The "<a>" tag creates a link to another page.
+It creates a link to another page.
 
 6. What would the line of HTML below do?
 
@@ -30,7 +30,7 @@ This line of html would create a link to google.com named Google.
 
 1. What advantages does the `<link>` tag have over the `<style>` tag?
  
- Both the <link> tag and the <style> tag are ways to include CSS in an html file. The <link> tag in particular accesses CSS from an external file instead of keeping it all written in the html like the <style> tag.
+ Both the link tag and the style tag are ways to include CSS in an html file. The link tag in particular accesses CSS from an external file instead of keeping it all written in the html like the style tag.
 
 2. What is normalize.css?
  
@@ -38,11 +38,11 @@ This line of html would create a link to google.com named Google.
 
 3. Why do we need to add a padding property to the `<ul>` tag?
 
-  We needed to add the paddling property to the "<ul>" tag because the links were off-center after centering all the elements on the page. The browser compensated for the the bullet points, so we needed to add padding to counteract it and pad all sides.
+  We needed to add the paddling property to the ul tag because the links were off-center after centering all the elements on the page. The browser compensated for the the bullet points, so we needed to add padding to counteract it and pad all sides.
 
 4. What does the “inline” property do to a list of items?
  
- The "inline" property lines the list of items horizontally on the same line. They exist within the normal flow of text.
+ The inline property lines the list of items horizontally on the same line. They exist within the normal flow of text.
 
 5. What do the following padding values do?
 
@@ -78,7 +78,7 @@ This line of html would create a link to google.com named Google.
   This line of HTML creates 0 margin on the top and bottom of the element and auto margin on the left and right. It centers the element to the center of the page.
 
 4. How does using `max-width` instead of `width` improve the readability of any webpage?
-  By using "max-width" instead of "width" it tells the a program to activate with a limit of width or max-width. This allows browsers with lesser widths to be able to read it.
+  By using max-width instead of width it tells the a program to activate with a limit of width or max-width. This allows browsers with lesser widths to be able to read it.
 
 5. The media query to the below  will not be activated unless…
 
