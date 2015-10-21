@@ -104,7 +104,7 @@ This media query will not be activated unless the browser is smaller than 500px.
 
 8. Javascript is the programming language that allows websites to be interactive.
 
-9. This tag allows us to add JavaScript into any webpage? <script> </script>
+9. This tag allows us to add JavaScript into any webpage? < script >
 
 10. What is an event?
 An event is one result of using your mouse.
