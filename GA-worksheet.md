@@ -1,4 +1,4 @@
-####Name:
+####Name: Samantha Nunez
 ####ScriptEd
 ####Topic: HTML, CSS, and JS
 
@@ -25,7 +25,7 @@
 
 ##Project #2 Part #2: Style the Header with CSS
 
-1. What advantages does the `<link>` tag have over the `<style>` tag?
+1. What advantages does the `<link>` tag have over the `<style>` tag? Instead of putting your CSS directly in the html file and taking up space-like the <style> tag, the <link> tag, is a connection from your html to a css, that has all he properties and attributes you want. It's advantageous because it makes your html shorter and easier to read-something especially convenient when you have dozens of style attributes.
 
 2. What is normalize.css? it's a "thing" that basically renders the elements in your page consistent across all browsers and wherever your page is being seen, so it doesn't look messy.
 
@@ -59,9 +59,9 @@
 
 2. Why is it important to center and narrow text on a webpage? (think visually) If you center and narrow it, you only have to scroll down, but if the text just takes the whole width of the page, suddenly you have to scroll left, right, up and down. That's annoying, no one wants that.
 
-3. What does this line of HTML do to an object? `margin: 0 auto;` It makes it so that theres 0 margin at the top an bottom, and auto margin at the left and right. This centers the text.
+3. What does this line of HTML do to an object? `margin: 0 auto;` It makes it so that theres 0 margin at the top and bottom, and auto margin at the left and right. This centers the text.
 
-4. How does using `max-width` instead of `width` improve the readability of any webpage? max-width makes it so that the article elements cant be any bigger than whatever number you put in.
+4. How does using `max-width` instead of `width` improve the readability of any webpage? max-width makes it so that the article elements cant be any bigger than whatever number you put in. it improves readability across different devices, for example, if your using a phone instead of a 15.6 inch laptop. It also keeps the page structured when you zoom in/out.
 
 5. The media query to the below  will not be activated unless… you make the page narrower than 500px.
 
@@ -75,21 +75,21 @@
 
 6. What does each digit of this Hexidecimal Color Code represent? #E78
 
- E represents ...
+ E represents ... the amount of redness
 
- 7 represents ...
+ 7 represents ... the amount of greeness
 
- 8 represents ...
+ 8 represents ... the amount of blueness
 
-7. What is the Hex Color Code for true purple?  #
+7. What is the Hex Color Code for true purple?  #990099
 
 8. JAVASCRIPT is the programming language that allows websites to be interactive.
 
-9. This tag allows us to add JavaScript into any webpage? <          >
+9. This tag allows us to add JavaScript into any webpage? <script>
 
-10. What is an event?
+10. What is an event? something that happens everytime you move your mouse, click something, mouse over things, press a key or scroll. by default they go unnotticed.
 
-11. How does JavaScript use events?
+11. How does JavaScript use events?java can listen for specific events and sort of create reactions to them.
 
 **Activity** Copy all the text from your project so far into a new JS Bin workspace. From there you can change the site to an “About Me” website about yourself. To do this you will need to do the following:
 
