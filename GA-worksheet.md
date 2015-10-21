@@ -17,7 +17,7 @@ A: The unordered list tag (<ul>).
 5. What does the <a> tag do?
 A: It allows a text to be a link to another page.
 6. What would the line of HTML below do?
-A: 
+A: It would bring you to the google webpage.
 ``` html
 <a href="http://www.google.com">Google</a>
 ```
