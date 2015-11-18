@@ -1,6 +1,6 @@
 ### Worksheet Instructions
 
-1. Click on your worksheet to open it.
+1. Fork this repo and click on your worksheet to open it.
 
 2. Create a branch with your name.
 
