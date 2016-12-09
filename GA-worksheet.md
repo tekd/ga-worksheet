@@ -7,18 +7,18 @@
 
 ##Project #2 Part #1: Header HTML
 1. What is the purpose of the header tag?
-
+The purpose of the header tag is to make sure the blog has an order in it's body and we have a heading inside the page. The header tag is another code for the body, but doesn't indent.
 2. What is a Navigation Bar?
+A Navigation Bar, helps us to link another page to our blog.
+3. What tag do we use to make a navigation bar? <   a   >
 
-3. What tag do we use to make a navigation bar? <      >
-
-4.  <ul> Stands for _____________________
-    <li> Stands for ______________________
+4.  <ul> Stands for _unwritten bullets____________________
+    <li> Stands for ___bulletpoints___________________
 
 5. What does the <a> tag do?
-
+The <a> lets us link a page to our page
 6. What would the line of HTML below do?
-
+HTML line will help our page be in a document order.
 ``` html
 <a href="http://www.google.com">Google</a>
 ```
@@ -26,21 +26,21 @@
 ##Project #2 Part #2: Style the Header with CSS
 
 1. What advantages does the `<link>` tag have over the `<style>` tag?
-
+The link tag is a link to something or a heading. It also makes a specific style.
 2. What is normalize.css?
-
+Normalize.css renders all elements more constantly and in line.
 3. Why do we need to add a padding property to the `<ul>` tag?
-
+We need to add padding property tothe ul so the bullets won't appear or be at the corner looking unprofessional.
 4. What does the “inline” property do to a list of items?
-
+The inline tag brings all the links to one line.
 5. What do the following padding values do?
-
+The padding values change the spaces between the length.
     padding: 25px 50px 75px 100px;
 
-    * top padding is __px
-    * right padding is __px
-    * bottom padding is __px
-    * left padding is __px
+    * top padding is 25__px
+    * right padding is 50__px
+    * bottom padding is 75__px
+    * left padding is 100__px
 
     padding: 20px;
 
